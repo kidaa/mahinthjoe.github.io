@@ -6,8 +6,8 @@ baseurl: ""
 url: "http://mahinthjoe.github.io"
 twitter_username: mahinthjoe
 github_username:  mahinthjoe
-include:['.htaccess']
-keep_files:['.git']
+include: ['.htaccess']
+keep_files: ['.git']
 # Build settings
 markdown: kramdown
 permalink: pretty
