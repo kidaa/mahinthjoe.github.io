@@ -14,3 +14,4 @@ This means that users must be able to understand the information as well as the 
 <li><strong>Robust</strong> - Content must be robust enough that it can be interpreted reliably by a wide variety of user agents, including assistive technologies.
 This means that users must be able to access the content as technologies advance (<em>as technologies and user agents evolve, the content should remain accessible</em>)</li>
 </ul>
+
