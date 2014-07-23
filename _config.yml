@@ -1,12 +1,13 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Learning to be Modular
+email: joe@mjacesolutions.com
+description: "Attempting to cosolidate all the different notes I have obtained over the years. In a location independant way with hosting provided by github.com come on lets learn something while you are here. Unfortunately organization with filters tags and collection requires the use of third party plugins which is not supported by github."
 baseurl: ""
-url: "http://yourdomain.com"
-twitter_username: jekyllrb
-github_username:  jekyll
-
+url: "http://mahinthjoe.github.io"
+twitter_username: mahinthjoe
+github_username:  mahinthjoe
+include:['.htaccess']
+keep_files:['.git']
 # Build settings
 markdown: kramdown
 permalink: pretty

@@ -4,9 +4,7 @@ title:  "Welcome to Jekyll!"
 date:   2014-07-22 20:39:11
 categories: jekyll update
 ---
-
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. Think of it like a file-based CMS, without all the complexity. Jekyll takes your content, renders Markdown and Liquid templates, and spits out a complete, static website ready to be served by Apache, Nginx or another web server. 
 
 Jekyll also offers powerful support for code snippets:
 
