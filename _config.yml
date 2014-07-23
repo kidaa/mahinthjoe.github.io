@@ -8,6 +8,7 @@ twitter_username: mahinthjoe
 github_username:  mahinthjoe
 include: ['.htaccess']
 keep_files: ['.git']
+extensions: ['fenced_code_blocks']
 # Build settings
 markdown: kramdown
 permalink: pretty

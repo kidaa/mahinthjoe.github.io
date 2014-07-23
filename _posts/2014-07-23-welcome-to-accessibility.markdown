@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Accessibility!"
-date:   2014-07-22 20:39:11
+date:   2014-07-23 20:39:11
 categories: jekyll update
 ---
 The guidelines and Success Criteria are organized around the following four principles, which lay the foundation necessary for anyone to access and use Web content. Anyone who wants to use the Web must have content that is:
