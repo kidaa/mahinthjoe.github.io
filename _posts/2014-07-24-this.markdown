@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Welcome to this!"
+date:   2014-07-23 20:39:11
+categories: jekyll update
+---
+
+value of <strong>this</strong> varies by invocation
+<ul>
+<li>as a function <strong>this</strong> refers to <strong>global</strong></li>
+<li>as a method of an object <strong>this</strong> refers to <strong>object</strong></li>
+<li>using call or apply method <strong>this</strong> ==== <strong>argument[0]</strong></li>
+</ul>
