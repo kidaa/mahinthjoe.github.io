@@ -1,7 +1,7 @@
 # Site settings
 title: Learning Modular Branching
 email: joe@mjacesolutions.com
-description: "Attempting to cosolidate all the different notes I have obtained over the years. In a location independant way with hosting provided by github.com come on lets learn something while you are here. Unfortunately organization with filters, tags and collection requires the use of third party plugins which is not supported by github but will be done so later in a personal blog."
+description: "Attempting to cosolidate all the different notes I have obtained over the years. In a location independant way with hosting provided by github.com come on lets learn something while you are here. Unfortunately organization with filters, tags and collection requires the use of third party plugins. Ticket based  support via http://mjac.freshdesk.com"
 baseurl: ""
 url: "http://mahinthjoe.github.io"
 twitter_username: mahinthjoe
