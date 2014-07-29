@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to AJAX!"
-date:   2014-07-26 20:39:11
+date:   2014-07-25 20:39:11
 categories: jekyll update
 ---
 
