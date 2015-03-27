@@ -1,1 +1,3 @@
 _site
+.elasticbeanstalk/
+.DS_Store
